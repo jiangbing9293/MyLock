@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">274友情版</string>
+    <string name="hello_world">摇一摇，锁定！再摇一摇，解锁！请点击我！</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
